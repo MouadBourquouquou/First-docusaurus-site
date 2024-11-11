@@ -1,0 +1,11 @@
+web:
+  label: WEB DEVELLOPMENT
+  permalink: /webDev
+  description: things related to front-end , back-end ..
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+
