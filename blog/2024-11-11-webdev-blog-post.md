@@ -2,7 +2,7 @@
 slug: web-developement
 title: Web Developement
 authors: Mouad
-tags: [web]
+tags: [web,frontend]
 ---
 # The Power and Process of Web Development in Today’s Digital Age
 

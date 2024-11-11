@@ -3,9 +3,9 @@ web:
   permalink: /webDev
   description: things related to front-end , back-end ..
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+frontend:
+  label: front-end
+  permalink: /front_end
+  description: the part in web-developement related to the client side
 
 
