@@ -8,4 +8,9 @@ frontend:
   permalink: /front_end
   description: the part in web-developement related to the client side
 
+backend:
+  label: back-end
+  permalink: /back_end
+  description: the part in web-developement related to the server side
+
 
